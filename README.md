@@ -1,24 +1,11 @@
-# README
+== Welcome to Season Planning
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+	Season Planning is a rails application created by the fine folks at TGFI.net for
+	Bailey Weathers.
 
-Things you may want to cover:
+	We're using haml, formtastic and devise, so you better bone up.
 
-* Ruby version
+	== Authors
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+	Greg Benedict => gbenedict@tgfi.net
+	Mike Retzak => mretzak@tgfi.net
